@@ -1,6 +1,6 @@
 numpy 
 pandas
 seaborn
-sckitit learn
+scikit-learn
 xgboost
 plotly
